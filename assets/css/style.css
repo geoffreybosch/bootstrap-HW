@@ -65,16 +65,17 @@ h3 {
 
 #logo {
   float: left;
-  width: 250px;
+  width: 400px auto;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 90px;
   color: #ffffff;
   text-align: center;
   text-decoration: none;
   background: #4aaaa5;
+  padding: auto;
 }
 
 nav {
